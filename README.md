@@ -9,13 +9,13 @@
 🛠️ Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p>
 📌 Featured Projects
-Project	Description	Tech
-Resume Forge	AI-assisted resume builder for crafting polished, tailored resumes	Python, AI
-AI Job Application Portal	Smart job portal that streamlines applications with AI-driven matching	Python, AI, Full Stack
-Laptop Price Predictor	ML model that predicts laptop prices from specs using regression	Python, scikit-learn, Pandas
-Tour & Travel Website	Responsive travel site showcasing destinations and packages	HTML, CSS, JS
+#	Project	Description	Tech Stack
+1	Resume Forge	AI-assisted resume builder for crafting polished, tailored resumes	Python AI
+2	AI Job Application Portal	Smart job portal that streamlines applications with AI-driven matching	Python AI Full Stack
+3	Laptop Price Predictor	ML model that predicts laptop prices from specs using regression	Python scikit-learn Pandas
+4	Tour & Travel Website	Responsive travel site showcasing destinations and packages	HTML CSS JavaScript
 
-💡 Pin these via Profile → Customize your pins so they show above this README. Double-check the repo links above match your actual repo names/URLs.
+⚠️ Replace the project names above with links once you confirm the exact repo URLs, e.g. [Resume Forge](https://github.com/Aksh-shipit/repo-name). Also pin these via Profile → Customize your pins so they show above this README.
 
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aksh-shipit&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-shipit&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksh-shipit&hide_border=true" alt="GitHub Streak" /> </p>
