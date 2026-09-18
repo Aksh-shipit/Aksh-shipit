@@ -22,28 +22,28 @@ Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </div> <br/>
 📌 Featured Projects
 <table> <tr> <td width="50%" valign="top">
-📄 Resume Forge
+📄 Resume Forge(https://github.com/Aksh-shipit/ResumeForge-AI)
 
 AI-assisted resume builder for crafting polished, tailored resumes.
 
 Python AI
 
 </td> <td width="50%" valign="top">
-💼 AI Job Application Portal
+💼 AI Job Application Portal(https://github.com/Aksh-shipit/Job-application-portal)
 
 Smart job portal that streamlines applications with AI-driven matching.
 
 Python AI Full Stack
 
 </td> </tr> <tr> <td width="50%" valign="top">
-💻 Laptop Price Predictor
+💻 Laptop Price Predictor(https://github.com/Aksh-shipit/Laptop-Price-Predictor)
 
 ML model that predicts laptop prices from specs using regression.
 
 Python scikit-learn Pandas
 
 </td> <td width="50%" valign="top">
-✈️ Tour & Travel Website
+✈️ Tour & Travel Website(https://github.com/Aksh-shipit/Tour-and-Travel-Website)
 
 Responsive travel site showcasing destinations and packages.
 
